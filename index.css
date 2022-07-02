@@ -1,0 +1,29 @@
+html,body {
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, p {
+    color: #555555;
+}
+
+header {
+    background-color: #EFEFEF;
+}
+
+div {
+    margin-left: 20px;
+    margin-top: 300px;
+}
+
+footer {
+    background-color: #EEEEEE;
+    position: fixed;
+    width: 100%;
+    bottom: 0px;
+}
+
+footer p {
+    margin-left: 20px;
+}
